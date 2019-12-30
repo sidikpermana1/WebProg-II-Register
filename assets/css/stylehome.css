@@ -1,0 +1,41 @@
+/*style body*/
+*{
+	font-family: calibri; /*mengatur font*/
+
+}
+
+
+/*style id content*/
+#content{
+	/*mengatur perataan text ditengah*/
+	text-align: center;
+}
+
+
+#content #laptop .box hr{
+	width:100px;
+	color:#129DF6;
+	position: center;
+}
+
+#content a{
+	display:inline-block;
+	color:black;
+	text-decoration: none;
+	
+}
+
+#content #judulpage{	
+	margin-bottom: 20px;
+}
+
+.footer{
+	margin-top:30px;
+}
+#content .box{
+	width:300px;
+	height:200px;
+	display:inline-block;
+	margin-top:5px;
+	margin-left:30px;
+}
