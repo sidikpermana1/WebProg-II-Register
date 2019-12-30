@@ -1,0 +1,1 @@
+<a href="<?= base_url('Myadmin/tambahdata'); ?>">Tambah Data Mahasiswa</a>
